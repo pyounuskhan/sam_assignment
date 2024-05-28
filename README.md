@@ -41,3 +41,7 @@ Follow these instructions to set up and run the project locally.
     ```bash
     node index.js
     ```
+
+## Assignment Link
+
+You can view the assignment details [here](https://drive.google.com/file/d/16-yAd6zCEqFEzi_UPVqR83Ev2InKl0IP/view?usp=sharing).
