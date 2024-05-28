@@ -7,7 +7,7 @@ Follow these instructions to set up and run the project locally.
 1. **Navigate to the frontend directory:**
 
     ```bash
-    cd sam_assignment/frontend
+    cd sam_assignment/reactApp
     ```
 
 2. **Install the necessary dependencies:**
@@ -19,7 +19,7 @@ Follow these instructions to set up and run the project locally.
 3. **Start the frontend application:**
 
     ```bash
-    node index.js
+    npm run start
     ```
 
 ### Setting Up the Backend
@@ -39,5 +39,5 @@ Follow these instructions to set up and run the project locally.
 3. **Start the backend server:**
 
     ```bash
-    npm run start
+    node index.js
     ```
